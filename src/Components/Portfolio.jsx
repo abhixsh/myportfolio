@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Motivational Quote Generator: ",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An App to Help You Stay Inspired",
+    url: "https://dev.to/abhixsh/motivational-quote-generator-an-app-to-help-you-stay-inspired-5h2h",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Introduction to DevOps:",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Principles, History and Applications",
+    url: "https://dev.to/abhixsh/devops-1h3f",
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Simple Portfolio Website",
+    url: "https://github.com/abhixsh/myportfolio",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "A Comprehensive Beginner's Guide to NPM:",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Simplifying Package Management",
+    url: "https://dev.to/abhixsh/a-comprehensive-beginners-guide-to-npm-simplifying-package-management-57l5",
   },
 ];
 

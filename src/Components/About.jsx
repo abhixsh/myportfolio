@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "JavaScript",
-  "Python (Programming Language)",
-  "C (Programming Language)",
-  "Adobe Photoshop",
-  "HTML",
-  "GIT",
+  "Web design",
+  "User experience",
+  "Grapic design",
+  "Porblem Solving",
+  "Devops",
+  "Teamwork",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "With my proficiency in programming languages such as Python, JavaScript, HTML, CSS, and C, I have gained experience managing databases and creating responsive web applications. In addition to my technical skills, I am also well-versed in graphic design and have a keen eye for visual aesthetics. ";
+  "I possess a strong enthusiasm for addressing challenges through novel and imaginative approaches, aiming to foster innovation. Drawing upon my background in UI/UX, I consistently seek fresh and enhanced methods to enhance the accessibility of technology for everyone.";
 
 const About = () => {
   return (

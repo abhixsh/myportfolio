@@ -30,9 +30,8 @@ const siteProps = {
   gitHub: "abhixsh",
   instagram: "_abhixsh",
   linkedIn: "abhixsh",
-  medium: "_abhixsh",
+  medium: "abhixsh__",
   twitter: "abhixsh",
-  youTube: "Abishek Hathakage",
 };
 
 const primaryColor = "#4E567E";
